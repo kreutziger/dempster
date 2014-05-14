@@ -9,24 +9,27 @@ This was a university project.
 
 ## Installation
 
-Download from here.
+Download from this repository.
 
 ## Usage
 
 (every routine from the root directory of this repository)
 
 For usage with leiningen:
+
     lein repl
     (-main)
 
-Otherwise with your installed version of clojure:
+Otherwise with your installed version of clojure
+
     cd dempster/src/dempster/
     java -jar clojure-*.jar versions 1.4, 1.5, 1.6 should work)
     (load=file "core.clj")
     (ns dempster.core)
     (-main)
 
-To use the jar:
+To use the jar
+
     lein uberjar
     java -jar target/dempster*.jar
 
