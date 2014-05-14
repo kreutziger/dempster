@@ -76,7 +76,7 @@ http://en.wikipedia.org/wiki/Dempster%E2%80%93Shafer_theory
 
 ## License
 
-Copyright © 2014 kreutziger, Jan-Patrik Weller
+Copyright © 2014 kreutziger, theicarus
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
