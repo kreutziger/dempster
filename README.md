@@ -65,12 +65,12 @@ plausibility.
      3 : 0.474  |  0.000  | 0.526 
     nil
 
-### Bugs
+## Bugs
 
 * Output in the generated jar via (lein uberjar) does not work for
   plausibility, belief and doubt
 
-### Sources
+## Sources
 
 http://en.wikipedia.org/wiki/Dempster%E2%80%93Shafer_theory
 
